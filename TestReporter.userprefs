@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestReporter\ReporterOptions.cs">
+    <Files>
+      <File FileName="TestReporter\Program.cs" Line="23" Column="25" />
+      <File FileName="TestReporter\TestReporter.cs" Line="38" Column="1" />
+      <File FileName="TestReporter\ReporterOptions.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Maikel\Documents\Projects\TestReporter\TestReporter\TestReporter.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
